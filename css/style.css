@@ -1,0 +1,44 @@
+/* YOUR CUSTOM STYLES */
+html,
+body,
+.view {
+    height: 100%;
+}
+
+.view {
+    background: url("../img/google-smartphone-app-mobile.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.main_title_text {
+  color : white;
+  font-size: 3vw;
+}
+
+
+.explain_bloc {
+  font-size: 1.3vw;
+}
+
+
+.bloc_title {
+  text-align: center;
+}
+
+.bloc_subtitle {
+  text-align: left;
+}
+
+.prerequisities {
+  text-align: left;
+  font-size: 1.2vw;
+}
+
+
+.download_link{
+  text-align: center;
+  font-size: 1.3vw;
+}
